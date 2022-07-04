@@ -1,2 +1,3 @@
-# pj6
-project six
+# I'm Thee Thant
+
+Bar Nyar Tha Rar Kar
